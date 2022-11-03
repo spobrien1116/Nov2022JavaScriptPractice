@@ -1,0 +1,13 @@
+# EditorConfig = Universal editor workspace settings
+# https://EditorConfig.org
+
+# Tells editorconfig to not look for any more config files higher up in your filesystem
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
